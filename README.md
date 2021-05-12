@@ -1,2 +1,3 @@
-# Hotel-customers-EDA-and-segmentation.
-Exploratory analysis and segmentation on hotel's customers dataset.
+# Hotel's customers EDA and segmentation.
+
+Exploratory data analysis and segmentation on one of the Portugl's four-stars hotel's customers real-life dataset.
